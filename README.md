@@ -3,7 +3,7 @@
 
 - 🦠 I’m currently leading the work on a few revolutionary healthcare ideas using AI.
 - 🤓 I'm curious, and adaptable.
-- 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from [Imperial College London](https://www.imperial.ac.uk)
+- 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai)
 - 📚 I’m currently learning more about software engineering best practices.
 - ⛵ I'm currently obtaining my sailing certification, and getting back in sports 🏃‍♂️
