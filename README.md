@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Daniel Fiuza!
+
+- 🦠 I’m currently working on a few revolutionary healthcare ideas using AI.
+- 🎓 I hold a PhD in Theorical Physics and Applied Mathematics.
+- 📚 I’m currently learning more about everything, specially software engineering best practices, business impact and project management.
+- ⛵ I'm currently obtaining my sailing certification, and getting back in sports.
+- 👯 I’m looking to collaborate on applied research topics and AI solutions.
+- 💬 Ask me about anything!
+- 📫 How to reach me: dafiuzadosil@gmail.com
 
 <!--
 **Daniel-FD/Daniel-FD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
