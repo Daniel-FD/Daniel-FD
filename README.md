@@ -2,7 +2,7 @@
 
 - 🦠 I’m currently working on a few revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics.
-- 📚 I’m currently learning more about everything, specially software engineering best practices, business impact and project management.
+- 📚 I’m currently learning more about software engineering best practices.
 - ⛵ I'm currently obtaining my sailing certification, and getting back in sports.
 - 👯 I’m looking to collaborate on applied research topics and AI solutions.
 - 💬 Ask me about anything!
