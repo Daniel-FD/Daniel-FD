@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Daniel Fiuza</h2>
-<h3 align="center">A passionate and adaptable Data Scientist</h3>
+<h3 align="left">A passionate and adaptable Data Scientist</h3>
 
 - 🦠 I’m currently leading the work on a few revolutionary healthcare ideas using AI.
 - 🤓 I'm curious, and adaptable.
