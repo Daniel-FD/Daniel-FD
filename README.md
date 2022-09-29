@@ -3,6 +3,7 @@
 - 🦠 I’m currently leading the work on a few revolutionary healthcare ideas using AI.
 - 🤓 I'm curious, and adaptable.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics.
+- 🚀 I'm a Data Science Fellow from Faculty AI.
 - 📚 I’m currently learning more about software engineering best practices.
 - ⛵ I'm currently obtaining my sailing certification, and getting back in sports 🏃‍♂️
 - 🧑🏻‍🤝‍🧑🏾 I’m looking to collaborate on AI solution and applied research topics.
