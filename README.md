@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Daniel Fiuza!
 
-- 🦠 I’m currently working on a few revolutionary healthcare ideas using AI.
+- 🦠 I’m currently leading the work on a few revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics.
 - 📚 I’m currently learning more about software engineering best practices.
 - ⛵ I'm currently obtaining my sailing certification, and getting back in sports.
