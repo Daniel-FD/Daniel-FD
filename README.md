@@ -12,12 +12,15 @@
 - 📫 How to reach me: dafiuzadosil@gmail.com
 
 
-Background: 
-Soon to come!
+
 
 
 <!--
 **Daniel-FD/Daniel-FD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Background: 
+Soon to come!
+
 
 Here are some ideas to get you started:
 
