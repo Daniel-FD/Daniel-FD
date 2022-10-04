@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Daniel Fiuza</h2>
 <h3 align="left">A passionate and adaptable Data Scientist</h3>
 
-- 🦠 I’m currently leading the data science work on a few of revolutionary healthcare ideas using AI.
-- 🤓 I'm curious, and adaptable.
+- 🦠 I’m currently working as a lead data sciencist for a few of revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
 - 📚 I’m currently learning more about software engineering best practices.
 - ⛵ I'm currently obtaining my sailing certification, and getting back in sports 🏃‍♂️
 - 🧑🏻‍🤝‍🧑🏾 I’m looking to collaborate on AI solution and applied research topics.
+- 🤓 I'm curious, and adaptable.
 - 💬 Ask me about anything!
 - 📫 How to reach me: dafiuzadosil@gmail.com
 
