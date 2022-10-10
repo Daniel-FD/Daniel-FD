@@ -12,8 +12,8 @@
 - 📫 How to reach me: dafiuzadosil@gmail.com
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-fiuza-dosil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/daniel-fiuza-dosil?trk=profile-badge">Daniel Fiuza Dosil</a></div>
+              
 
 <!--
 **Daniel-FD/Daniel-FD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
