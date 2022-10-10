@@ -10,14 +10,7 @@
 - 🤓 I'm curious, and adaptable.
 - 💬 Ask me about anything!
 - 📫 How to reach me: dafiuzadosil@gmail.com
-
-[![linkedin]([app-generated-url](https://linkedin-github.herokuapp.com/api/render/Daniel%20Fiuza%20Dosil/Data%20Scientist/Lead%20Data%20Scientist/PhD/light/https%3A%2F%2Fwww.imperial.ac.uk%2Fmedia%2Fmigration%2Fresearch-groups%2FFiuza-Dosil%2C-Daniel_PGR_Flu_2018--tojpeg_1536151070186_x2.jpg))](www.linkedin.com/in/daniel-fiuza-dosil)
-
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="daniel-fiuza-dosil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/daniel-fiuza-dosil?trk=profile-badge">Daniel Fiuza Dosil</a></div>
+- 👀 Also on [LinkedIn]([https://faculty.ai](https://www.linkedin.com/in/daniel-fiuza-dosil/))
               
               
 
