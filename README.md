@@ -10,7 +10,7 @@
 - 🤓 I'm curious, and adaptable.
 - 💬 Ask me about anything!
 - 📫 How to reach me: dafiuzadosil@gmail.com
-- 👀 Also on [LinkedIn](https://faculty.ai](https://www.linkedin.com/in/daniel-fiuza-dosil/)
+- 👀 Also on [LinkedIn](https://www.linkedin.com/in/daniel-fiuza-dosil/)
               
               
 
