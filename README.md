@@ -12,7 +12,10 @@
 - 📫 How to reach me: dafiuzadosil@gmail.com
 
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-fiuza-dosil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/daniel-fiuza-dosil?trk=profile-badge">Daniel Fiuza Dosil</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="daniel-fiuza-dosil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/daniel-fiuza-dosil?trk=profile-badge">Daniel Fiuza Dosil</a></div>
+              
               
 
 <!--
