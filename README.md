@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Daniel Fiuza</h2>
 <h3 align="left">A passionate and adaptable Data Scientist</h3>
 
-- 🦠 I’m currently working as a lead data scientist on a few of revolutionary healthcare ideas using AI.
+- 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
-- 📚 I’m currently studying to become a certified AWS Developer (already certified!).
-- ⛵ I'm have recently obtained my sailing certification, and getting back in sports 🏃‍♂️
+- 📚 I’m currently learning best software engineering best-practices, and I have recently became a certified AWS Developer.
+- ⛵ I'm have recently obtained my sailing certification, and I am getting back in sports 🏃‍♂️
 - 🧑🏻‍🤝‍🧑🏾 I’m looking to collaborate on AI solution and applied research topics.
 - 🤓 I'm curious, and adaptable.
 - 💬 Ask me about anything!
