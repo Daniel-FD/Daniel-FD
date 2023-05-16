@@ -4,7 +4,7 @@
 - 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
-- 📚 I’m currently learning best software engineering best-practices, and I have recently became a certified AWS Developer.
+- 📚 I’m currently learning software engineering best-practices, and I have recently became a certified AWS Developer.
 - ⛵ I'm have recently obtained my sailing certification, and I am getting back in sports 🏃‍♂️
 - 🧑🏻‍🤝‍🧑🏾 I’m looking to collaborate on AI solution and applied research topics.
 - 🤓 I'm curious, and adaptable.
