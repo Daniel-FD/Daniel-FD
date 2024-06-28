@@ -1,5 +1,11 @@
+![Banner Image](./banner.png "Banner Image")
+
 <h2 align="center">Hi 👋, I'm Daniel Fiuza</h2>
 <h3 align="left">A passionate and adaptable Data Scientist</h3>
+
+#### **🤖 Data Scientist & AI Engineer: Machine Learning, Computer Vision, Gen AI, Speech🤖**
+#### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
+![Views](https://komarev.com/ghpvc/?username=Daniel-FD)
 
 - 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
