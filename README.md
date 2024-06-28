@@ -2,9 +2,10 @@
 
 <h2 align="center">Hi 👋, I'm Daniel Fiuza</h2>
 
-#### ** 🧔‍♂️ A passionate and adaptable Data Scientist & AI Engineer 🧔‍♂️**
+#### **🧔‍♂️ A passionate and adaptable Data Scientist & AI Engineer 🧔‍♂️**
 #### **🤖 Machine Learning, Computer Vision, Gen AI 🤖**
 #### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
+
 <!-- ![Views](https://komarev.com/ghpvc/?username=Daniel-FD)-->
 
 
