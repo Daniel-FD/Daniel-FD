@@ -1,11 +1,12 @@
-![Banner Image](./banner.png "Banner Image")
+<!-- ![Banner Image](./banner.png "Banner Image")-->
 
 <h2 align="center">Hi 👋, I'm Daniel Fiuza</h2>
-<h3 align="left">A passionate and adaptable Data Scientist</h3>
 
-#### **🤖 Data Scientist & AI Engineer: Machine Learning, Computer Vision, Gen AI, Speech🤖**
+#### ** 🧔‍♂️ A passionate and adaptable Data Scientist & AI Engineer 🧔‍♂️**
+#### **🤖 Machine Learning, Computer Vision, Gen AI 🤖**
 #### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
-![Views](https://komarev.com/ghpvc/?username=Daniel-FD)
+<!-- ![Views](https://komarev.com/ghpvc/?username=Daniel-FD)-->
+
 
 - 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
@@ -18,6 +19,14 @@
 - 📫 How to reach me: dafiuzadosil@gmail.com
 - 👀 Also on [LinkedIn](https://www.linkedin.com/in/daniel-fiuza-dosil/)
                      
+<br />
+
+**Looking for an Expert Freelancer?**
+
+🟢 [**Upwork Freelancer Profile**](https://www.upwork.com/freelancers/~01e9b031c898fe51cc)
+
+<br />
+
 
 <!--
 **Daniel-FD/Daniel-FD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
