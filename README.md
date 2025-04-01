@@ -4,12 +4,12 @@
 
 #### **🧔‍♂️ A passionate and adaptable Data Scientist & AI Engineer 🧔‍♂️**
 #### **🤖 Machine Learning, Computer Vision, Gen AI 🤖**
-#### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
+<!--#### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**-->
 
 <!-- ![Views](https://komarev.com/ghpvc/?username=Daniel-FD)-->
 
 
-- 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.
+<!--- 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.-->
 - 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
 - 📚 I’m currently learning software engineering best-practices, and I have recently became a certified AWS Developer.
@@ -19,15 +19,16 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: dafiuzadosil@gmail.com
 - 👀 Also on [LinkedIn](https://www.linkedin.com/in/daniel-fiuza-dosil/)
+
                      
-<br />
+<!---<br />
 
 **Looking for an Expert Freelancer?**
 
 🟢 [**Upwork Freelancer Profile**](https://www.upwork.com/freelancers/~01e9b031c898fe51cc)
 
 <br />
-
+-->
 
 <!--
 **Daniel-FD/Daniel-FD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
