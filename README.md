@@ -13,7 +13,7 @@
 - 🛡️ I work at [Range](https://www.range.org/), building ML/AI security & intelligence solutions for stablecoins.
 - 🎓 I hold a PhD in Theoretical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
-- 📚 Currently learning how to become a better software engineer.
+- 📚 Sharpening software engineering, API design, and coding best practices.
 - 🧑🏻‍🤝‍🧑🏾 Open to collaboration on AI solutions and applied research topics.
 - 🏥 Collaborating with Imperial College London on ML for clinical trials and biomarker discovery. 
 - 🏄‍♂️ Doing sports in my free time.
