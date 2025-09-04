@@ -10,11 +10,13 @@
 
 
 <!--- 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.-->
-- 🎓 I hold a PhD in Theorical Physics and Applied Mathematics from Imperial College London.
+- 🛡️ I work at [Range.org](https://www.range.org/) ([rangesecurity GitHub](https://github.com/rangesecurity)), building ML/AI security & intelligence solutions for stablecoins.
+- 🎓 I hold a PhD in Theoretical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
-- 📚 I’m currently learning software engineering best-practices, and I have recently became a certified AWS Developer.
-- ⛵ I have recently obtained my sailing certification, and I am getting back in sports 🏃‍♂️.
-- 🧑🏻‍🤝‍🧑🏾 I’m looking to collaborate on AI solutions and applied research topics.
+- 📚 Currently learning how to become a better software engineer.
+- 🧑🏻‍🤝‍🧑🏾 Open to collaboration on AI solutions and applied research topics.
+- 🏥 Collaborating with Imperial College London & National Heart & Lung Institute on ML for clinical trials and biomarker discovery. 
+- 🏄‍♂️ Doing sports in my free time.
 - 🤓 I'm curious, and adaptable.
 - 💬 Ask me about anything!
 - 📫 How to reach me: dafiuzadosil@gmail.com
