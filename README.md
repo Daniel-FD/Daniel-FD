@@ -15,7 +15,7 @@
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
 - 📚 Currently learning how to become a better software engineer.
 - 🧑🏻‍🤝‍🧑🏾 Open to collaboration on AI solutions and applied research topics.
-- 🏥 Collaborating with Imperial College London & National Heart & Lung Institute on ML for clinical trials and biomarker discovery. 
+- 🏥 Collaborating with Imperial College London on ML for clinical trials and biomarker discovery. 
 - 🏄‍♂️ Doing sports in my free time.
 - 🤓 I'm curious, and adaptable.
 - 💬 Ask me about anything!
