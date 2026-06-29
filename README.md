@@ -10,7 +10,7 @@
 
 
 <!--- 🦠 I’m currently working as a lead data scientist in Bryant Medical on a few of revolutionary healthcare ideas using AI.-->
-- 🛡️ I work at [Range](https://www.range.org/), building ML/AI security & intelligence solutions for stablecoins.
+- 🛡️ I work at [Range](https://www.range.org/), building ML/AI security, compliance & intelligence solutions for stablecoins.
 - 🎓 I hold a PhD in Theoretical Physics and Applied Mathematics from Imperial College London.
 - 🚀 I'm a Data Science Fellow from [Faculty AI](https://faculty.ai).
 - 📚 Sharpening software engineering, API design, and coding best practices.
